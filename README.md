@@ -34,5 +34,13 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+| **Pattern**               | **Definition**                            | **Format / Keywords**                                        | **Example**                                                                | **Use Cases**                           |
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------- | --------------------------------------- |
+| **1. Instructional**      | Guides step-by-step to teach or explain.  | *“Explain how / Show me / Describe the steps…”*              | “Explain how to create a stopwatch app using JavaScript.”                  | Tutorials, teaching, guides             |
+| **2. Comparison**         | Highlights similarities & differences.    | *“Compare X and Y in terms of A, B, C…”*                     | “Compare Python and JavaScript in terms of syntax and use cases.”          | Research, decision-making               |
+| **3. Command**            | Direct instruction to perform a task.     | *“Write / Generate / Create / Build…”*                       | “Write SQL code to create a Students table.”                               | Coding, automation, quick tasks         |
+| **4. Q\&A**               | Simple question-and-answer structure.     | *“Q: … A: …”*                                                | Q: “What is the capital of Japan?” A: “Tokyo”                              | Quizzes, flashcards, FAQs               |
+| **5. Opinion / Argument** | Seeks reasoning, stance, or debate.       | *“Do you agree / What is your view / Argue for or against…”* | “Should social media be regulated by governments? Defend your view.”       | Essays, debates, discussions            |
+| **6. Scenario**           | Places in real or hypothetical situation. | *“Imagine / Suppose / You are in a situation where…”*        | “Imagine you are a project manager with a tight deadline. What do you do?” | Role-play, problem-solving, simulations |
 
 # RESULT: The prompt for the above said problem executed successfully
